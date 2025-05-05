@@ -1,3 +1,8 @@
+
+[![Deploy static content to Pages](https://github.com/Dantescur/buty-count/actions/workflows/deploy.yml/badge.svg)](https://github.com/Dantescur/buty-count/actions/workflows/deploy.yml)
+---
+
+
 # buty-count
 
 This template should help get you started developing with Vue 3 in Vite.
